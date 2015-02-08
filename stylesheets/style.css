@@ -66823,3 +66823,7 @@ hr.on-light {
 }
 
 /*# sourceMappingURL=material.css.map */
+/* line 1, ../sass/_custom.scss */
+a:focus {
+  outline: none !important;
+}
